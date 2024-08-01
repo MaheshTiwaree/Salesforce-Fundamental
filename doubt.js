@@ -1,3 +1,3 @@
 /* 
-1. Difference in static resouce and conetent assest
+1. Difference in static resouce and content assest
 */
